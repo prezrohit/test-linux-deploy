@@ -15,7 +15,7 @@ public class SpringCiCdApplication {
 
     @GetMapping
     public String helloWorld() {
-        return "Hello World";
+        return "Hello Linux";
     }
 
 }
